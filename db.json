@@ -1,0 +1,122 @@
+{
+  "appointments": [
+    {
+      "id": 5506896953868288,
+      "created": 1562673946768,
+      "totalCost": 9000,
+      "practitionerType": "doctor",
+      "urgencyType": "SCHEDULED",
+      "patientName": "John"
+    },
+    {
+      "id": 4702785895399424,
+      "created": 1562604260567,
+      "totalCost": 13000,
+      "practitionerType": "physio",
+      "urgencyType": "PREMIUM",
+      "patientName": "Lennon"
+    },
+    {
+      "id": 5487259792965632,
+      "created": 1562601710394,
+      "totalCost": 2500,
+      "practitionerType": "phone",
+      "patientName": "Rodney"
+    },
+    {
+      "id": 4883135732908032,
+      "created": 1562600616412,
+      "totalCost": 13000,
+      "practitionerType": "doctor",
+      "urgencyType": "PREMIUM",
+      "patientName": "Jessica"
+    },
+    {
+      "id": 6332167101612032,
+      "created": 1562586979633,
+      "totalCost": 9000,
+      "practitionerType": "doctor",
+      "urgencyType": "SCHEDULED",
+      "patientName": "Nicole"
+    },
+    {
+      "id": 6286204005777408,
+      "created": 1562342246624,
+      "totalCost": 13000,
+      "practitionerType": "physio",
+      "urgencyType": "PREMIUM",
+      "patientName": "Daugherty"
+    },
+    {
+      "id": 5157999580545024,
+      "created": 1562255465529,
+      "totalCost": 9000,
+      "practitionerType": "doctor",
+      "urgencyType": "SCHEDULED",
+      "patientName": "Macgregor"
+    },
+    {
+      "id": 6196460899008512,
+      "created": 1562164940188,
+      "totalCost": 9000,
+      "practitionerType": "doctor",
+      "urgencyType": "ASAP",
+      "patientName": "Portillo"
+    },
+    {
+      "id": 5741700735565824,
+      "created": 1562144231759,
+      "totalCost": 13000,
+      "practitionerType": "doctor",
+      "urgencyType": "PREMIUM",
+      "patientName": "Kai"
+    },
+    {
+      "id": 4887697759928320,
+      "created": 1562000247917,
+      "totalCost": 13000,
+      "practitionerType": "doctor",
+      "urgencyType": "PREMIUM",
+      "patientName": "Tulisa"
+    },
+    {
+      "id": 5132404494696448,
+      "created": 1561709855561,
+      "totalCost": 13000,
+      "practitionerType": "physio",
+      "urgencyType": "PREMIUM",
+      "patientName": "Keyan"
+    },
+    {
+      "id": 5154757282889728,
+      "created": 1561038907069,
+      "totalCost": 13000,
+      "practitionerType": "doctor",
+      "urgencyType": "PREMIUM",
+      "patientName": "Brady"
+    },
+    {
+      "id": 5669727686885376,
+      "created": 1560535203643,
+      "totalCost": 11000,
+      "practitionerType": "physio",
+      "urgencyType": "SCHEDULED",
+      "patientName": "Grayson"
+    },
+    {
+      "id": 6549658574782464,
+      "created": 1558533681672,
+      "totalCost": 2500,
+      "practitionerType": "doctor",
+      "patientName": "Oliver"
+    },
+    {
+      "id": 5147233850753024,
+      "created": 1553620147377,
+      "totalCost": 9000,
+      "practitionerType": "physio",
+      "urgencyType": "ASAP",
+      "patientName": "Gage"
+    }
+  ]
+}
